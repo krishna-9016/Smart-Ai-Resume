@@ -362,11 +362,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🏠 HOME](https://resumind.streamlit.app/)
+   [🏠 HOME]()
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)]()
 </b></td>  
 </tr>  
 <tr>  
@@ -376,11 +376,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Score And Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Score And Recommendations)]()
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(According To Roles Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(According To Roles Recommendations)]()
    </b></td>  
 </tr>  
 <tr>  
@@ -391,11 +391,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(According To Roles Course Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(According To Roles Course Recommendations)]()
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Videos Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Videos Recommendations)]()
    </b></td>  
 </tr>  
 <tr>  
@@ -409,7 +409,7 @@ Join the mission! Here's how:
 </b></td>  
 <td align="center"><b>
    
-   [📊 DASHBOARD](https://resumind.streamlit.app/)
+   [📊 DASHBOARD]()
 </b></td>  
 </tr>  
 <tr>  
@@ -419,11 +419,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🎯 JOB SEARCH](https://resumind.streamlit.app/)
+   [🎯 JOB SEARCH]()
    </b></td>  
 <td align="center"><b>
    
-   [🎯 JOB SEARCH(📊 Job Market Insights & 🏢 Featured Companies)](https://resumind.streamlit.app/)
+   [🎯 JOB SEARCH(📊 Job Market Insights & 🏢 Featured Companies)]()
    </b></td>  
 </tr>  
 <tr>  
@@ -433,11 +433,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [💬 FEEDBACK](https://resumind.streamlit.app/)
+   [💬 FEEDBACK]()
    </b></td>  
 <td align="center"><b>
    
-   [ℹ️ ABOUT](https://resumind.streamlit.app/)
+   [ℹ️ ABOUT]()
    </b></td>  
 </tr>  
 <tr>  
